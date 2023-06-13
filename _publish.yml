@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: fb8af3f0-a869-443b-bb4c-c2815858c0ac
+      url: 'https://quartopub.com/sites/dvairus/blog'
